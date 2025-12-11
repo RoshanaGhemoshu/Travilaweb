@@ -10,7 +10,7 @@
   "dependencies": {
     "next": "16.0.8",
     "react": "19.2.1",
-    "lucide-react": "..."
+    "lucide-react": "...",
     "react-dom": "19.2.1"
   },
   "devDependencies": {
